@@ -28,4 +28,4 @@
   </a>
 </div>
 
-[(Back to top)](#php---mysql-simple-projects)
+[(Back to top)](#php-&-mysql-simple-projects)
