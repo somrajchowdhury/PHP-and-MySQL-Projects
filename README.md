@@ -24,7 +24,7 @@
 <div align="center">
   <a href="#">
     <img src=""
-      alt="JSCalci" />
+      alt="" />
   </a>
 </div>
 
