@@ -1,4 +1,4 @@
-# PHP & MySQL Simple Projects
+# PHP and MySQL Simple Projects
 
 <div align="center">
   <a href="https://github.com/somrajchowdhury/WebLab/">
@@ -28,4 +28,4 @@
   </a>
 </div>
 
-[(Back to top)](#php-$&-mysql-simple-projects)
+[(Back to top)](#php-and-mysql-simple-projects)
