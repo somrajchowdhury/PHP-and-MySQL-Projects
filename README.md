@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github.com/somrajchowdhury/WebLab/blob/master/Output/JSCalculator.gif"
+    <img src=""
       alt="JSCalci" />
   </a>
 </div>
