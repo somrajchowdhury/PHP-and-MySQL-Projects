@@ -23,7 +23,20 @@
 
 <div align="center">
   <a href="#">
-    <img src=""
+    <img src="https://github.com/somrajchowdhury/PHP-and-MySQL-Projects/blob/master/Project%201/project1output.gif"
+      alt="" />
+  </a>
+</div>
+
+[(Back to top)](#php-and-mysql-simple-projects)
+
+## Project 2 : Quizzer : Simple Database driven Quiz website
+
+> **Output :**
+
+<div align="center">
+  <a href="#">
+    <img src="https://github.com/somrajchowdhury/PHP-and-MySQL-Projects/blob/master/Project%201/project1output.gif"
       alt="" />
   </a>
 </div>
