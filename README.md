@@ -24,7 +24,7 @@
 <div align="center">
   <a href="#">
     <img src="https://github.com/somrajchowdhury/PHP-and-MySQL-Projects/blob/master/Project%201/project1output.gif"
-      alt="" />
+      alt="project1output" />
   </a>
 </div>
 
@@ -36,8 +36,8 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github.com/somrajchowdhury/PHP-and-MySQL-Projects/blob/master/Project%201/project1output.gif"
-      alt="" />
+    <img src="https://github.com/somrajchowdhury/PHP-and-MySQL-Projects/blob/master/Project%202/Quizzer.gif"
+      alt="project2output" />
   </a>
 </div>
 
